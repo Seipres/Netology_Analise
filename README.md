@@ -11,3 +11,5 @@ task8_netology - класс Python для получения курса валю
 task9_1_netology - обработка датафрейма в pandas
 
 task9_2_netology - обработка датафрейма в pandas
+
+final_python_assignment.py - итоговое задание по курсу Python для аналитиков данных
