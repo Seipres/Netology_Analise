@@ -13,3 +13,7 @@ task9_1_netology - обработка датафрейма в pandas
 task9_2_netology - обработка датафрейма в pandas
 
 final_python_assignment.py - итоговое задание по курсу Python для аналитиков данных
+
+task10_1_netology.py - обработка датафрейма в pandas
+
+task10_2_netology.py - обработка датафрейма в pandas
